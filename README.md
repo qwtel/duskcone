@@ -1,6 +1,6 @@
 # Duskcone
 
-Duskcone brings Twilight Princess to Meta Quest, based on Dusklight. It supports
+Duskcone brings Twilight Princess to Meta Quest, based on [Dusklight](https://github.com/TwilitRealm/dusklight). It supports
 Quest 2, Quest 3, and Quest 3S.
 
 This repository currently hosts builds and releases. Source code will be
