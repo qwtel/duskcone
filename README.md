@@ -2,7 +2,7 @@
   <img src="res/logo.png" alt="Duskcone logo" width="640">
 
   <p align="center">
-    <a href="https://duskcone.dev/">Official Website</a>
+    <a href="https://preview.duskcone.dev/">Official Website</a>
   </p>
 </div>
 
